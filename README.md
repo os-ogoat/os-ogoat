@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some things
 - 📫 How to reach me through things
 - 😄 Pronouns: non of those things
-- ⚡ Fun fact: interesting things
+- ⚡ Fun fact: Interesting things
 
 <!---
 os-ogoat/os-ogoat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
