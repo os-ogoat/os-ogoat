@@ -11,26 +11,26 @@
 ```mermaid
 mindmap
   root((O S))
-    👀 Most things
+    👀 Interested in most things
       Explore broadly
       Focus thoughtfully
-    🌱 New things
+    🌱 Learning new things
       Understand
       Test
       Refine
-    💞️ Some things
+    💞️ Collaboration on some things
       Set clear expectations
       Share a standard for quality
-    ⚡ Interesting things
+    ⚡ Fun fact: Interesting things
       Make every choice count
       Know when it is done
 ```
 
-### 📫 Through things
+### 📫 How to reach me: through things
 
 GitHub is the public point of contact for the work and context shared here.
 
-### 😄 None of those things
+### 😄 Pronouns: none of those things
 
 Personal labels stay personal; this profile keeps the focus on the work.
 
