@@ -71,7 +71,7 @@
   <rect class="panel" x="12" y="12" width="876" height="206" rx="24" />
 
   <text class="eyebrow" x="58" y="62">GITHUB / @OS-OGOAT</text>
-  <text class="name" x="54" y="132">O S</text>
+  <text class="name" x="450" y="132" text-anchor="middle">O S</text>
   <text class="motto" x="58" y="174">
     Done is beautiful, Beautiful is better!
   </text>

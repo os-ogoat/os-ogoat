@@ -94,7 +94,9 @@
   <rect class="panel" x="12" y="12" width="876" height="1086" rx="24" />
 
   <text class="eyebrow" x="48" y="58">THE BODY</text>
-  <text class="title" x="48" y="96">How things take shape</text>
+  <text class="title" x="450" y="96" text-anchor="middle">
+    How things take shape
+  </text>
 
   <path class="connector" d="M184 163h22m-7-7 7 7-7 7" />
   <path class="connector" d="M352 163h22m-7-7 7 7-7 7" />
