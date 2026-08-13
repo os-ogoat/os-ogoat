@@ -1,4 +1,4 @@
-<img src="./assets/profile-header.svg" width="100%" alt="O S — Done is beautiful, Beautiful is better!">
+<img src="./assets/profile-header.svg?v=2" width="100%" alt="O S — Done is beautiful, Beautiful is better!">
 
 <img src="./assets/profile-body.svg" width="100%" alt="About O S: curiosity, learning, collaboration, and thoughtful work.">
 

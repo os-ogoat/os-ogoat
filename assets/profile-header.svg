@@ -32,11 +32,12 @@
     .motto {
       fill: #57606a;
       font-size: 24px;
+      font-style: italic;
     }
     .divider {
-      stroke: #8c959f;
+      stroke: #0969da;
       stroke-linecap: round;
-      stroke-width: 2;
+      stroke-width: 4;
     }
     .shape-primary {
       fill: #0969da;
@@ -62,7 +63,7 @@
         fill: #8b949e;
       }
       .divider {
-        stroke: #6e7681;
+        stroke: #58a6ff;
       }
       .shape-primary {
         fill: #58a6ff;
@@ -80,7 +81,7 @@
 
   <text class="eyebrow" x="58" y="62">GITHUB / @OS-OGOAT</text>
   <text class="name" x="450" y="132" text-anchor="middle">O S</text>
-  <path class="divider" d="M330 150h240" />
+  <path class="divider" d="M340 150h220" />
   <text class="motto" x="450" y="184" text-anchor="middle">
     Done is beautiful, Beautiful is better!
   </text>
