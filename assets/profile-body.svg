@@ -1,0 +1,192 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="900"
+  height="1110"
+  viewBox="0 0 900 1110"
+  role="img"
+  aria-labelledby="title description"
+>
+  <title id="title">The things</title>
+  <desc id="description">
+    O S shares an interest in most things, continuous learning, thoughtful
+    collaboration, public work on GitHub, a preference for keeping personal
+    labels private, and an appreciation for interesting things.
+  </desc>
+  <style>
+    text {
+      fill: #1f2328;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .panel {
+      fill: #f6f8fa;
+      stroke: #d0d7de;
+      stroke-width: 1.5;
+    }
+    .card {
+      fill: #ffffff;
+      stroke: #d0d7de;
+      stroke-width: 1.5;
+    }
+    .eyebrow {
+      fill: #0969da;
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 2px;
+    }
+    .title {
+      font-size: 30px;
+      font-weight: 700;
+    }
+    .heading {
+      font-size: 20px;
+      font-weight: 650;
+    }
+    .copy {
+      fill: #57606a;
+      font-size: 15.5px;
+    }
+    .step-number {
+      fill: #0969da;
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 1px;
+    }
+    .step-label {
+      font-size: 16px;
+      font-weight: 650;
+    }
+    .step-detail {
+      fill: #57606a;
+      font-size: 12px;
+    }
+    .connector {
+      fill: none;
+      stroke: #8c959f;
+      stroke-linecap: round;
+      stroke-width: 2;
+    }
+    @media (prefers-color-scheme: dark) {
+      text {
+        fill: #f0f6fc;
+      }
+      .panel {
+        fill: #0d1117;
+        stroke: #30363d;
+      }
+      .card {
+        fill: #161b22;
+        stroke: #30363d;
+      }
+      .eyebrow,
+      .step-number {
+        fill: #58a6ff;
+      }
+      .copy,
+      .step-detail {
+        fill: #8b949e;
+      }
+      .connector {
+        stroke: #6e7681;
+      }
+    }
+  </style>
+
+  <rect class="panel" x="12" y="12" width="876" height="1086" rx="24" />
+
+  <text class="eyebrow" x="48" y="58">THE BODY</text>
+  <text class="title" x="48" y="96">How things take shape</text>
+
+  <path class="connector" d="M184 163h22m-7-7 7 7-7 7" />
+  <path class="connector" d="M352 163h22m-7-7 7 7-7 7" />
+  <path class="connector" d="M520 163h22m-7-7 7 7-7 7" />
+  <path class="connector" d="M688 163h22m-7-7 7 7-7 7" />
+
+  <g transform="translate(48 119)">
+    <rect class="card" width="136" height="88" rx="14" />
+    <text class="step-number" x="16" y="24">01</text>
+    <text class="step-label" x="16" y="50">Explore</text>
+    <text class="step-detail" x="16" y="70">Start curious</text>
+  </g>
+  <g transform="translate(216 119)">
+    <rect class="card" width="136" height="88" rx="14" />
+    <text class="step-number" x="16" y="24">02</text>
+    <text class="step-label" x="16" y="50">Learn</text>
+    <text class="step-detail" x="16" y="70">Test the idea</text>
+  </g>
+  <g transform="translate(384 119)">
+    <rect class="card" width="136" height="88" rx="14" />
+    <text class="step-number" x="16" y="24">03</text>
+    <text class="step-label" x="16" y="50">Collaborate</text>
+    <text class="step-detail" x="16" y="70">Share quality</text>
+  </g>
+  <g transform="translate(552 119)">
+    <rect class="card" width="136" height="88" rx="14" />
+    <text class="step-number" x="16" y="24">04</text>
+    <text class="step-label" x="16" y="50">Refine</text>
+    <text class="step-detail" x="16" y="70">Make it count</text>
+  </g>
+  <g transform="translate(720 119)">
+    <rect class="card" width="136" height="88" rx="14" />
+    <text class="step-number" x="16" y="24">05</text>
+    <text class="step-label" x="16" y="50">Finish</text>
+    <text class="step-detail" x="16" y="70">Know it is done</text>
+  </g>
+
+  <g transform="translate(48 239)">
+    <rect class="card" width="808" height="94" rx="16" />
+    <text class="heading" x="22" y="34">👋 Hi, I’m @os-ogoat</text>
+    <text class="copy" x="22" y="65">
+      I’m O S. This profile is a focused record of ideas and projects shared publicly.
+    </text>
+  </g>
+
+  <g transform="translate(48 354)">
+    <rect class="card" width="808" height="94" rx="16" />
+    <text class="heading" x="22" y="34">👀 I’m interested in most things</text>
+    <text class="copy" x="22" y="65">
+      Curiosity starts wide, then focuses on work that is useful, clear, and worth finishing.
+    </text>
+  </g>
+
+  <g transform="translate(48 469)">
+    <rect class="card" width="808" height="94" rx="16" />
+    <text class="heading" x="22" y="34">🌱 I’m currently learning new things</text>
+    <text class="copy" x="22" y="65">
+      Learning means understanding the problem, testing assumptions, and refining the result.
+    </text>
+  </g>
+
+  <g transform="translate(48 584)">
+    <rect class="card" width="808" height="104" rx="16" />
+    <text class="heading" x="22" y="34">💞️ I’m looking to collaborate on some things</text>
+    <text class="copy" x="22" y="64">
+      <tspan x="22" dy="0">Good collaboration rests on clear expectations, thoughtful communication,</tspan>
+      <tspan x="22" dy="21">and a shared commitment to quality.</tspan>
+    </text>
+  </g>
+
+  <g transform="translate(48 709)">
+    <rect class="card" width="808" height="94" rx="16" />
+    <text class="heading" x="22" y="34">📫 How to reach me through things</text>
+    <text class="copy" x="22" y="65">
+      GitHub provides the public context for the work shared here.
+    </text>
+  </g>
+
+  <g transform="translate(48 824)">
+    <rect class="card" width="808" height="94" rx="16" />
+    <text class="heading" x="22" y="34">😄 Pronouns: non of those things</text>
+    <text class="copy" x="22" y="65">
+      Personal labels stay personal; this profile keeps the focus on the work.
+    </text>
+  </g>
+
+  <g transform="translate(48 939)">
+    <rect class="card" width="808" height="104" rx="16" />
+    <text class="heading" x="22" y="34">⚡ Fun fact: Interesting things</text>
+    <text class="copy" x="22" y="64">
+      <tspan x="22" dy="0">The interesting part is making every choice count—and knowing when</tspan>
+      <tspan x="22" dy="21">the work is done.</tspan>
+    </text>
+  </g>
+</svg>
