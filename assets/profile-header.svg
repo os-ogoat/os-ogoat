@@ -6,7 +6,7 @@
   role="img"
   aria-labelledby="title description"
 >
-  <title id="title">O S</title>
+  <title id="title">OS-OGOAT</title>
   <desc id="description">Done is beautiful, Beautiful is better!</desc>
   <style>
     text {
@@ -80,7 +80,7 @@
   <rect class="panel" x="12" y="12" width="876" height="206" rx="24" />
 
   <text class="eyebrow" x="58" y="62">GITHUB / @OS-OGOAT</text>
-  <text class="name" x="450" y="132" text-anchor="middle">O S</text>
+  <text class="name" x="450" y="132" text-anchor="middle">OS-OGOAT</text>
   <path class="divider" d="M340 150h220" />
   <text class="motto" x="450" y="184" text-anchor="middle">
     Done is beautiful, Beautiful is better!
