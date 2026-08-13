@@ -6,13 +6,11 @@
 
 </div>
 
-```mermaid
-flowchart LR
-  curiosity(["Curiosity"]) --> learning(["Learning"])
-  learning --> collaboration(["Collaboration"])
-  collaboration --> refinement(["Refinement"])
-  refinement --> done(["Done beautifully"])
-```
+<div align="center">
+
+![From curiosity to a beautiful finish](./assets/profile-flow.svg)
+
+</div>
 
 ### 👋 Hi, I’m **@os-ogoat**
 
