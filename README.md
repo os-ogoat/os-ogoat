@@ -1,14 +1,6 @@
-<img
-  src="./assets/profile-header.svg"
-  width="100%"
-  alt="O S — Done is beautiful, Beautiful is better!"
->
+<img src="./assets/profile-header.svg" width="100%" alt="O S — Done is beautiful, Beautiful is better!">
 
-<img
-  src="./assets/profile-flow.svg"
-  width="100%"
-  alt="From curiosity to a beautiful finish"
->
+<img src="./assets/profile-flow.svg" width="100%" alt="From curiosity to a beautiful finish">
 
 ### 👋 Hi, I’m **@os-ogoat**
 
@@ -49,8 +41,4 @@ place—and knowing when the work is done.
 profile. [`diagram-design`](https://github.com/os-ogoat/diagram-design) is a
 fork; its original project and history remain with the upstream repository.
 
-<img
-  src="./assets/profile-footer.svg"
-  width="100%"
-  alt="Ex nihilo nihil fit. Nothing comes from nothing."
->
+<img src="./assets/profile-footer.svg" width="100%" alt="Ex nihilo nihil fit. Nothing comes from nothing.">
