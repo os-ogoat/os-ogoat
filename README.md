@@ -1,39 +1,41 @@
+<div align="center">
+
 # O S
 
-> Done is beautiful, Beautiful is better!
+### Done is beautiful, Beautiful is better!
 
-## 👀 Most things
+`curious by default` · `deliberate by practice` · `finished with care`
 
-Curiosity starts wide. I explore ideas broadly, then focus on the ones that can
-become useful, thoughtful work.
+</div>
 
-## 🌱 New things
+```mermaid
+mindmap
+  root((O S))
+    👀 Most things
+      Explore broadly
+      Focus thoughtfully
+    🌱 New things
+      Understand
+      Test
+      Refine
+    💞️ Some things
+      Set clear expectations
+      Share a standard for quality
+    ⚡ Interesting things
+      Make every choice count
+      Know when it is done
+```
 
-Learning is part of the process: understand the problem, test the idea, and
-refine the result.
+### 📫 Through things
 
-## 💞️ Some things
+GitHub is the public point of contact for the work and context shared here.
 
-Good collaboration depends on clear expectations, thoughtful exchange, and a
-shared commitment to quality.
-
-## 📫 Through things
-
-GitHub is the public point of contact for the work and repository context
-shared here.
-
-## 😄 None of those things
+### 😄 None of those things
 
 Personal labels stay personal; this profile keeps the focus on the work.
 
-## ⚡ Interesting things
+### 🗂️ Things on GitHub
 
-The interesting part is not adding more. It is making every choice earn its
-place—and knowing when the work is done.
-
-## Things on GitHub
-
-This profile is intentionally small. It includes the
-[`os-ogoat`](https://github.com/os-ogoat/os-ogoat) profile repository and a
-[`diagram-design`](https://github.com/os-ogoat/diagram-design) fork. The
-original project and its history remain with the upstream repository.
+[`os-ogoat`](https://github.com/os-ogoat/os-ogoat) is the source for this
+profile. [`diagram-design`](https://github.com/os-ogoat/diagram-design) is a
+fork; its original project and history remain with the upstream repository.
