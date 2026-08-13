@@ -4,35 +4,48 @@
 
 ### Done is beautiful, Beautiful is better!
 
-`curious by default` · `deliberate by practice` · `finished with care`
-
 </div>
 
 ```mermaid
-mindmap
-  root((O S))
-    👀 Interested in most things
-      Explore broadly
-      Focus thoughtfully
-    🌱 Learning new things
-      Understand
-      Test
-      Refine
-    💞️ Collaboration on some things
-      Set clear expectations
-      Share a standard for quality
-    ⚡ Fun fact: Interesting things
-      Make every choice count
-      Know when it is done
+flowchart LR
+  curiosity(["Curiosity"]) --> learning(["Learning"])
+  learning --> collaboration(["Collaboration"])
+  collaboration --> refinement(["Refinement"])
+  refinement --> done(["Done beautifully"])
 ```
 
-### 📫 How to reach me: through things
+### 👋 Hi, I’m @os-ogoat
 
-GitHub is the public point of contact for the work and context shared here.
+I’m O S. This profile is a focused record of the ideas and projects I choose
+to share publicly.
 
-### 😄 Pronouns: none of those things
+### 👀 I’m interested in most things
+
+Curiosity is the starting point. I stay open to different ideas, then give
+careful attention to the ones that are useful, clear, and worth finishing.
+
+### 🌱 I’m currently learning new things
+
+Learning is an active process: understand the problem, test assumptions, apply
+what works, and refine the result.
+
+### 💞️ I’m looking to collaborate on some things
+
+Good collaboration begins with clear expectations, thoughtful communication,
+and a shared commitment to quality.
+
+### 📫 How to reach me through things
+
+GitHub provides the public context for the work shared here.
+
+### 😄 Pronouns: non of those things
 
 Personal labels stay personal; this profile keeps the focus on the work.
+
+### ⚡ Fun fact: Interesting things
+
+The interesting part is not adding more. It is making every choice earn its
+place—and knowing when the work is done.
 
 ### 🗂️ Things on GitHub
 
