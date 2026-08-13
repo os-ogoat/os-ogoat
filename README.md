@@ -1,21 +1,14 @@
-<div align="center">
+<img
+  src="./assets/profile-header.svg"
+  width="100%"
+  alt="O S — Done is beautiful, Beautiful is better!"
+>
 
-# O S
-
-### Done is beautiful, Beautiful is better!
-
-</div>
-
-<div align="center">
-
-![From curiosity to a beautiful finish](./assets/profile-flow.svg)
-
-<p>
-  <em>Ex nihilo nihil fit.</em><br>
-  <sub>Nothing comes from nothing.</sub>
-</p>
-
-</div>
+<img
+  src="./assets/profile-flow.svg"
+  width="100%"
+  alt="From curiosity to a beautiful finish"
+>
 
 ### 👋 Hi, I’m **@os-ogoat**
 
@@ -55,3 +48,9 @@ place—and knowing when the work is done.
 [`os-ogoat`](https://github.com/os-ogoat/os-ogoat) is the source for this
 profile. [`diagram-design`](https://github.com/os-ogoat/diagram-design) is a
 fork; its original project and history remain with the upstream repository.
+
+<img
+  src="./assets/profile-footer.svg"
+  width="100%"
+  alt="Ex nihilo nihil fit. Nothing comes from nothing."
+>

@@ -1,0 +1,90 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="900"
+  height="230"
+  viewBox="0 0 900 230"
+  role="img"
+  aria-labelledby="title description"
+>
+  <title id="title">O S</title>
+  <desc id="description">Done is beautiful, Beautiful is better!</desc>
+  <style>
+    text {
+      fill: #1f2328;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    .panel {
+      fill: #f6f8fa;
+      stroke: #d0d7de;
+      stroke-width: 1.5;
+    }
+    .eyebrow {
+      fill: #0969da;
+      font-size: 13px;
+      font-weight: 700;
+      letter-spacing: 2px;
+    }
+    .name {
+      font-size: 64px;
+      font-weight: 750;
+      letter-spacing: 4px;
+    }
+    .motto {
+      fill: #57606a;
+      font-size: 24px;
+    }
+    .shape-primary {
+      fill: #0969da;
+    }
+    .shape-secondary {
+      fill: #bf8700;
+    }
+    .shape-tertiary {
+      fill: #8250df;
+    }
+    @media (prefers-color-scheme: dark) {
+      text {
+        fill: #f0f6fc;
+      }
+      .panel {
+        fill: #161b22;
+        stroke: #30363d;
+      }
+      .eyebrow {
+        fill: #58a6ff;
+      }
+      .motto {
+        fill: #8b949e;
+      }
+      .shape-primary {
+        fill: #58a6ff;
+      }
+      .shape-secondary {
+        fill: #d29922;
+      }
+      .shape-tertiary {
+        fill: #a371f7;
+      }
+    }
+  </style>
+
+  <rect class="panel" x="12" y="12" width="876" height="206" rx="24" />
+
+  <text class="eyebrow" x="58" y="62">GITHUB / @OS-OGOAT</text>
+  <text class="name" x="54" y="132">O S</text>
+  <text class="motto" x="58" y="174">
+    Done is beautiful, Beautiful is better!
+  </text>
+
+  <circle class="shape-primary" cx="740" cy="84" r="38" />
+  <rect
+    class="shape-secondary"
+    x="774"
+    y="111"
+    width="64"
+    height="64"
+    rx="16"
+    transform="rotate(12 806 143)"
+  />
+  <circle class="shape-tertiary" cx="715" cy="164" r="22" />
+</svg>
