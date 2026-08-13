@@ -1,39 +1,57 @@
+<div align="center">
+
 # O S
 
-> Done is beautiful, Beautiful is better!
+### Done is beautiful, Beautiful is better!
 
-## 👀 Most things
+</div>
 
-Curiosity starts wide. I explore ideas broadly, then focus on the ones that can
-become useful, thoughtful work.
+<div align="center">
 
-## 🌱 New things
+![From curiosity to a beautiful finish](./assets/profile-flow.svg)
 
-Learning is part of the process: understand the problem, test the idea, and
-refine the result.
+<p>
+  <em>Ex nihilo nihil fit.</em><br>
+  <sub>Nothing comes from nothing.</sub>
+</p>
 
-## 💞️ Some things
+</div>
 
-Good collaboration depends on clear expectations, thoughtful exchange, and a
-shared commitment to quality.
+### 👋 Hi, I’m **@os-ogoat**
 
-## 📫 Through things
+I’m O S. This profile is a focused record of the ideas and projects I choose
+to share publicly.
 
-GitHub is the public point of contact for the work and repository context
-shared here.
+### 👀 I’m interested in **most things**
 
-## 😄 None of those things
+Curiosity is the starting point. I stay open to different ideas, then give
+careful attention to the ones that are useful, clear, and worth finishing.
+
+### 🌱 I’m currently learning **new things**
+
+Learning is an active process: understand the problem, test assumptions, apply
+what works, and refine the result.
+
+### 💞️ I’m looking to collaborate on **some things**
+
+Good collaboration begins with clear expectations, thoughtful communication,
+and a shared commitment to quality.
+
+### 📫 How to reach me **through things**
+
+GitHub provides the public context for the work shared here.
+
+### 😄 Pronouns: **non of those things**
 
 Personal labels stay personal; this profile keeps the focus on the work.
 
-## ⚡ Interesting things
+### ⚡ Fun fact: **Interesting things**
 
 The interesting part is not adding more. It is making every choice earn its
 place—and knowing when the work is done.
 
-## Things on GitHub
+### 🗂️ Things on GitHub
 
-This profile is intentionally small. It includes the
-[`os-ogoat`](https://github.com/os-ogoat/os-ogoat) profile repository and a
-[`diagram-design`](https://github.com/os-ogoat/diagram-design) fork. The
-original project and its history remain with the upstream repository.
+[`os-ogoat`](https://github.com/os-ogoat/os-ogoat) is the source for this
+profile. [`diagram-design`](https://github.com/os-ogoat/diagram-design) is a
+fork; its original project and history remain with the upstream repository.
